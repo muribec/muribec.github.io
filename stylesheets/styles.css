@@ -51,7 +51,7 @@ a small {
 }
 
 .wrapper {
-  width:980px;
+  width:960px;
   margin:0 auto;
 }
 
@@ -101,7 +101,7 @@ img {
 }
 
 header {
-  width:270px;
+  width:290px;
   float:left;
   position:fixed;
 }
