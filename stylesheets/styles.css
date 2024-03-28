@@ -2,7 +2,7 @@
 
 body {
   padding:50px;
-  font:16px/1.5 Roboto, "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font:16px/1.5 "Work Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
   color:#839CA3;
   font-weight:400;
 }
@@ -28,9 +28,12 @@ h2 {
   color:#22282B;
 }
 
-h3, h4, h5, h6 {
-  color:#222;
-  color:#494949;
+h3 {
+  color:#48606E;
+}
+
+h4, h5, h6 {
+  color:#84A5B7;
 }
 
 a {
