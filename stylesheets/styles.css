@@ -309,5 +309,5 @@ div.panel {
 }
 
 div.panel.show {
-  display: block !important;
+  display: block;
 }
